@@ -1,7 +1,5 @@
 # E-commerce Back End
 
-# E-commerce Back End
-
 Express.js API with Sequelize and MySQL
 
 This is a functional Express.js API that uses Sequelize as an ORM (Object-Relational Mapping) tool to connect to a MySQL database.
